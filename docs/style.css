@@ -24,9 +24,11 @@ font-size: 16px;
 }
 .refrain {
 color: goldenrod;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .couplet {
 color: midnightblue;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 img{
 display: block;
@@ -38,7 +40,7 @@ display: block;
    margin-left: auto;
    margin-right: auto;
    width: 500px;
-   height: 200px;
+   height: 300px;
 }
 #fran {
     display: block;
