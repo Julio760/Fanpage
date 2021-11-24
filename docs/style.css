@@ -1,14 +1,18 @@
 h1 {
 color: rgb(88, 3, 88); 
+text-align: center;
 }
 h2{
 color: skyblue;
+text-align: center;
 }
 h3{
 color: royalblue;
+text-align: center;
 }
 h4{
 color: slateblue;
+text-align: center;
 }
 p {
 text-align: center;
@@ -17,5 +21,15 @@ text-align: center;
 color: goldenrod;
 }
 .couplet {
-color: aquamarine;
+color: midnightblue;
+}
+img{
+display: block;
+margin-right: auto;
+margin-left: auto;
+}
+iframe{
+display: block;
+   margin-left: auto;
+   margin-right: auto;
 }
