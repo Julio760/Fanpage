@@ -1,0 +1,21 @@
+h1 {
+color: rgb(88, 3, 88); 
+}
+h2{
+color: skyblue;
+}
+h3{
+color: royalblue;
+}
+h4{
+color: slateblue;
+}
+p {
+text-align: center;
+}
+.refrain {
+color: goldenrod;
+}
+.couplet {
+color: aquamarine;
+}
