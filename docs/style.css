@@ -46,3 +46,8 @@ display: block;
     display: block;
     width: 300px;
 }
+ul{
+    display: block;
+    margin-left: 400px;
+    margin-right: 200px;
+}
