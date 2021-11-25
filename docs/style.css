@@ -53,8 +53,7 @@ ul{
 }
 #billeterie{
     display: block;
-    margin-left: 46%;
-    margin-right: 40%;
+    text-align: center;
 }
 .chansons{
     display: block;
