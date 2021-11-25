@@ -46,9 +46,9 @@ display: block;
     display: block;
     width: 300px;
 }
-ul{
-    display: block;
+div{
     text-align: center;
+    text-decoration: none;
 }
 #billeterie{
     display: block;
