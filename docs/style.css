@@ -47,8 +47,8 @@ display: block;
     width: 300px;
 }
 ul{
+    display: block;
     text-align: center;
-    text-decoration: none;
 }
 #billeterie{
     display: block;
